@@ -1,1 +1,0 @@
-# Comikey Downloader keeps the first release intentionally small and unminified.
